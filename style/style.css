@@ -235,7 +235,11 @@ footer{
         flex-direction: column;
     }
     header{
-        padding: 50px 50px;
+        padding: 50px 20px;
+    }
+    .expreance{
+        width:80%;
+        margin:0 auto;
     }
     .header-text{
         width:100%;
@@ -276,7 +280,7 @@ footer{
         flex-direction: column;
     }
     header{
-        padding: 50px 50px;
+        padding: 50px 20px;
     }
     .header-text{
         width:100%;
