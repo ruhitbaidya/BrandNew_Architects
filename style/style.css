@@ -20,7 +20,7 @@ li{
     border:none;
     cursor: pointer;
 }
-main{
+main, footer{
     max-width: 1400px; 
     margin:0 auto;
 }
@@ -196,4 +196,31 @@ margin-bottom:24px;
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
+}
+.sponser-section{
+    margin:100px 0;
+    text-align: center;
+}
+.sponser-image{
+    display: flex;
+    justify-content: space-around;
+    margin:50px 0;
+}
+.sponser-section h2{
+    color:  #131313;
+font-size: 45px;
+font-weight: 700;
+margin-bottom:24px;
+}
+.sponser-section p{
+    color:  #727272;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; 
+}
+footer{
+    border-radius: 8px;
+    background: #FFF4E7;
+    padding: 40px;
+    text-align: center;
 }
