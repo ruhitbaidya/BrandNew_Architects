@@ -272,6 +272,39 @@ footer{
         width:40%;
         margin:50px auto;
     }
+    .menu ul li a{
+        margin-left: 0.8rem;
+    }
+    .menu h3,
+    .sponser-section h2,
+    .some_title,
+    .expreance h2,
+    .heading h2,
+    .content-part h2 {
+        font-size: 2rem;
+    }
+    .header-text h1{
+        font-size: 2rem;
+        margin-bottom:20px;
+    }
+    /* .content-part h2{
+        font-size: 2rem;
+    } */
+    /* .heading h2{
+        font-size: 2rem;
+    } */
+    /* .expreance h2{
+        font-size: 2rem;
+    } */
+    .expreance p{
+        font-size: 1.5rem;
+    }
+    /* .some_title{
+        font-size: 2rem;
+    } */
+    /* .sponser-section h2{
+        font-size: 2rem;
+    } */
 }
 
 @media screen and (min-width: 576px) and (max-width: 1150px) {
